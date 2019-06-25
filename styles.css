@@ -174,7 +174,7 @@ a.social:hover {
 
 .caption {
   text-align:center;
-  text-color: rgb(5, 84, 90);
+  text-decoration-color: rgb(5, 84, 90);
   font-size: 2em;
 }
 /* Styles for larger screens */
